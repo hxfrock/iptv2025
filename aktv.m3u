@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.hkdvb.com/epg/full.xml"
+#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
 
 #EXTINF:-1 tvg-name="鳳凰衛視中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视中文台.png" group-title="AKTV",鳳凰衛視中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
