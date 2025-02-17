@@ -55,9 +55,9 @@ http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-name="Channel U HD" tvg-logo="https://live.fanmingming.cn/radio/playfm.png" group-title="AKTV",Channel U HD
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 tvg-name="Animax(HK)" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="AKTV",Animax(HK)
+#EXTINF:-1 tvg-name="Animax(HK)" tvg-logo="https://live.fanmingming.cn/radio/playfm.png" group-title="AKTV",Animax(HK)
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="AKTV",Thrill
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://live.fanmingming.cn/radio/playfm.png" group-title="AKTV",Thrill
 http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 #EXTINF:-1 tvg-name="France 24" tvg-logo="https://live.fanmingming.cn/tv/france24.png" group-title="AKTV",France 24
 http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
