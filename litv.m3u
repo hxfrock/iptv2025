@@ -127,9 +127,9 @@ http://192.168.5.110/litv.php?id=litv-ftv07
 http://192.168.5.110/litv.php?id=litv-ftv15
 #EXTINF:-1 tvg-id="" tvg-name="龍華卡通台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn01_tv.png" group-title="綜合",龍華卡通台
 http://192.168.5.110/litv.php?id=litv-longturn01
-#EXTINF:-1 tvg-id="" tvg-name="博斯魅力台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn04_tv.png" group-title="綜合",博斯魅力台
+#EXTINF:-1 tvg-id="" tvg-name="博斯魅力HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn04_tv.png" group-title="綜合",博斯魅力HD
 http://192.168.5.110/litv.php?id=litv-longturn04
-#EXTINF:-1 tvg-id="" tvg-name="博斯高球台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn05_tv.png" group-title="綜合",博斯高球台
+#EXTINF:-1 tvg-id="" tvg-name="博斯高球台一台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn05_tv.png" group-title="綜合",博斯高球台一台
 http://192.168.5.110/litv.php?id=litv-longturn05
 #EXTINF:-1 tvg-id="" tvg-name="博斯高球二台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn06_tv.png" group-title="綜合",博斯高球二台
 http://192.168.5.110/litv.php?id=litv-longturn06
@@ -143,17 +143,17 @@ http://192.168.5.110/litv.php?id=litv-longturn09
 http://192.168.5.110/litv.php?id=litv-longturn10
 #EXTINF:-1 tvg-id="" tvg-name="博斯無限二台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn13_tv.png" group-title="綜合",博斯無限二台
 http://192.168.5.110/litv.php?id=litv-longturn13
-#EXTINF:-1 tvg-id="" tvg-name="龍華經典台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png" group-title="影视",龍華經典台
+#EXTINF:-1 tvg-id="" tvg-name="龍華經典HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png" group-title="影视",龍華經典HD
 http://192.168.5.110/litv.php?id=litv-longturn21
-#EXTINF:-1 tvg-id="" tvg-name="龍華電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png" group-title="影视",龍華電影台
+#EXTINF:-1 tvg-id="" tvg-name="龍華電影HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png" group-title="影视",龍華電影HD
 http://192.168.5.110/litv.php?id=litv-longturn03
-#EXTINF:-1 tvg-id="" tvg-name="龍華偶像台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png" group-title="影视",龍華偶像台
+#EXTINF:-1 tvg-id="" tvg-name="龍華偶像HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png" group-title="影视",龍華偶像HD
 http://192.168.5.110/litv.php?id=litv-longturn12
-#EXTINF:-1 tvg-id="" tvg-name="龍華日韓台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png" group-title="影视",龍華日韓台
+#EXTINF:-1 tvg-id="" tvg-name="龍華日韓HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png" group-title="影视",龍華日韓HD
 http://192.168.5.110/litv.php?id=litv-longturn11
-#EXTINF:-1 tvg-id="" tvg-name="龍華戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_tv.png" group-title="影视",龍華戲劇台
+#EXTINF:-1 tvg-id="" tvg-name="龍華戲劇HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_tv.png" group-title="影视",龍華戲劇HD
 http://192.168.5.110/litv.php?id=litv-longturn18
-#EXTINF:-1 tvg-id="" tvg-name="台灣戲劇台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_tv.png" group-title="影视",台灣戲劇台
+#EXTINF:-1 tvg-id="" tvg-name="台灣戲劇HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_tv.png" group-title="影视",台灣戲劇HD
 http://192.168.5.110/litv.php?id=litv-longturn22
 #EXTINF:-1 tvg-id="" tvg-name="影迷數位電影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv011_tv.png" group-title="影视",影迷數位電影台
 http://192.168.5.110/litv.php?id=4gtv-4gtv011
