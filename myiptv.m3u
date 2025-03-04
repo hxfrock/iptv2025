@@ -134,37 +134,37 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV1港澳版[1920x1080]
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1,tvg-id="hbo" tvg-name="hbo" tvg-logo="https://epg.v1.mk/logo/hbo.png" group-title="港澳台",HBO[1920x1080]
-https://dko29we9nm1rd.cloudfront.net/hls/CH115/index_8.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
 #EXTINF:-1,tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="其他",Now爆谷台[1920x1080]
-https://dko29we9nm1rd.cloudfront.net/hls/CH133/index_6.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
 #EXTINF:-1,tvg-id="NOW爆谷" tvg-name="NOW爆谷" tvg-logo="https://epg.v1.mk/logo/NOW爆谷.png" group-title="其他",Now爆谷星影台[1920x1080]
-https://dko29we9nm1rd.cloudfront.net/hls/CH138/index_7.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH138/index.m3u8
 #EXTINF:-1,tvg-id="now新闻台" tvg-name="now新闻台" tvg-logo="https://epg.v1.mk/logo/now新闻台.png" group-title="其他",Now新闻台[1920x1080]
-https://dko29we9nm1rd.cloudfront.net/hls/CH332/index_17.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH332/index.m3u8
 #EXTINF:-1,tvg-id="Now财经台" tvg-name="Now财经台" tvg-logo="https://epg.v1.mk/logo/Now财经台.png" group-title="其他",Now财经台[1920x1080]
-https://dko29we9nm1rd.cloudfront.net/hls/CH333/index_14.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH333/index.m3u8
 #EXTINF:-1,tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="其他",Now 爆谷台[1920x1080]
-https://dko29we9nm1rd.cloudfront.net/hls/CH133/index_6.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH133/index.m3u8
 #EXTINF:-1,tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://epg.v1.mk/logo/HBO Family.png" group-title="港澳台",HBO TV[1920x1080]
-https://dko29we9nm1rd.cloudfront.net/hls/CH115/index_8.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH115/index.m3u8
 #EXTINF:-1,tvg-id="NOWSPORTS英超1台" tvg-name="NOWSPORTS英超1台" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1台.png" group-title="其他",Now Sports 英超1台[1920x1080]
-https://dko29we9nm1rd.cloudfront.net/hls/CH621/index_11.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH621/index.m3u8
 #EXTINF:-1,tvg-id="NOWSPORTS英超2台" tvg-name="NOWSPORTS英超2台" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超2台.png" group-title="其他",Now Sports 英超2台[1920x1080]
-https://dko29we9nm1rd.cloudfront.net/hls/CH622/index_8.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH622/index.m3u8
 #EXTINF:-1,tvg-id="NOWSPORTS英超3台" tvg-name="NOWSPORTS英超3台" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超3台.png" group-title="其他",Now Sports 英超3台[1920x1080]
-https://dko29we9nm1rd.cloudfront.net/hls/CH623/index_9.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH623/index.m3u8
 #EXTINF:-1,tvg-id="NOWSPORTS英超4台" tvg-name="NOWSPORTS英超4台" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超4台.png" group-title="其他",Now Sports 英超4台[1920x1080]
-https://dko29we9nm1rd.cloudfront.net/hls/CH624/index_16.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH624/index.m3u8
 #EXTINF:-1,tvg-id="NOWSPORTS3" tvg-name="NOWSPORTS3" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS3.png" group-title="其他",Now Sports 3[1920x1080]
-https://dko29we9nm1rd.cloudfront.net/hls/CH633/index_5.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH633/index.m3u8
 #EXTINF:-1,tvg-id="NOWSPORTS4" tvg-name="NOWSPORTS4" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS4.png" group-title="其他",Now Sports 4[1920x1080]
-https://dko29we9nm1rd.cloudfront.net/hls/CH634/index_10.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH634/index.m3u8
 #EXTINF:-1,tvg-id="NOWSPORTS6" tvg-name="NOWSPORTS6" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS6.png" group-title="其他",Now Sports 6[1920x1080]
-https://dko29we9nm1rd.cloudfront.net/hls/CH637/index_6.m3u8
+https://dko29we9nm1rd.cloudfront.net/hls/CH637/index.m3u8
 #EXTINF:-1,tvg-id="BEINSPORTS2" tvg-name="BEINSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEINSPORTS2.png" group-title="其他",beIN SPORTS 2[1920x1080]
-https://eventcdn02-nowe.akamaized.net/hls/CH639/index_6.m3u8
+https://eventcdn02-nowe.akamaized.net/hls/CH639/index.m3u8
 #EXTINF:-1,tvg-id="NOWSPORTS618" tvg-name="NOWSPORTS618" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS618.png" group-title="其他",Now Sports 641[1920x1080]
-https://eventcdn02-nowe.akamaized.net/hls/CH641/index_7.m3u8
+https://eventcdn02-nowe.akamaized.net/hls/CH641/index.m3u8
 #EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.v1.mk/logo/tvbs.png" group-title="港澳台",TVBS[1280x720]
 http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一TVBS
 #EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港澳台",TVBPLUS[1280x720]
