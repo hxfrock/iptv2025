@@ -131,7 +131,3 @@ http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="viuTV" tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="AKTV",viuTV
 http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
-#EXTINF:-1 tvg-name="緯來日本" tvg-logo="https://assets.livednow.com/logo/緯來精采.png" group-title="AKTV",緯來日本
-http://aktv_stream1.m16tv.cfd/stream/useradd1/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="緯來體育" tvg-logo="https://assets.livednow.com/logo/緯來體育.png" group-title="AKTV",緯來體育
-http://aktv_stream1.m16tv.cfd/stream/useradd1/null-1/AKTV.m3u8
