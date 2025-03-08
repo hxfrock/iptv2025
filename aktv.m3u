@@ -105,31 +105,31 @@ http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
 #EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" group-title="AKTV",寰宇新聞台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
-#EXTINF:-1 tvg-name="愛爾達娛樂台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv070tv.png" group-title="綜合",愛爾達娛樂台
+#EXTINF:-1 tvg-name="愛爾達娛樂台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv070tv.png" group-title="AKTV",愛爾達娛樂台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
-#EXTINF:-1 tvg-name="東森新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv152_tv.png" group-title="新聞‧財經",東森新聞台
+#EXTINF:-1 tvg-name="東森新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv152_tv.png" group-title="AKTV",東森新聞台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
-#EXTINF:-1 tvg-name="民視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv002_tv.png" group-title="新聞‧財經",民視
+#EXTINF:-1 tvg-name="民視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv002_tv.png" group-title="AKTV",民視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv001_tv.png" group-title="新聞‧財經",民視台灣台
+#EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv001_tv.png" group-title="AKTV",民視台灣台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv155_tv.png" group-title="新聞‧財經",民視新聞台
+#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv155_tv.png" group-title="AKTV",民視新聞台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
-#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv003_tv.png" group-title="新聞‧財經",民視第一台
+#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv003_tv.png" group-title="AKTV",民視第一台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="民視綜藝台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv004_tv.png" group-title="綜合",民視綜藝台
+#EXTINF:-1 tvg-name="民視綜藝台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv004_tv.png" group-title="AKTV",民視綜藝台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
-#EXTINF:-1 tvg-name="華視HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" group-title="新聞‧財經",華視
+#EXTINF:-1 tvg-name="華視HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" group-title="AKTV",華視
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-name="龍華偶像HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png" group-title="影视",龍華偶像
+#EXTINF:-1 tvg-name="龍華偶像HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png" group-title="AKTV",龍華偶像
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
-#EXTINF:-1 tvg-name="龍華日韓HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png" group-title="影视",龍華日韓
+#EXTINF:-1 tvg-name="龍華日韓HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png" group-title="AKTV",龍華日韓
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="龍華電影HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png" group-title="影视",龍華電影台
+#EXTINF:-1 tvg-id="" tvg-name="龍華電影HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png" group-title="AKTV",龍華電影台
 http://aktv_stream1.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 #EXTINF:-1 tvg-name="NTV NEWS 24" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="AKTV",NTV NEWS 24
 http://aktv_stream1.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="viuTV" tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="影视",viuTV
+#EXTINF:-1 tvg-id="" tvg-name="viuTV" tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="AKTV",viuTV
 http://aktv_stream1.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 #EXTINF:-1 tvg-name="緯來日本" tvg-logo="https://assets.livednow.com/logo/緯來精采.png" group-title="AKTV",緯來日本
 http://aktv_stream1.m16tv.cfd/stream/useradd1/null/AKTV.m3u8
