@@ -64,6 +64,8 @@ http://aktv-stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-name="Thrill" tvg-logo="https://assets.livednow.com/logo/Thrill.png" group-title="AKTV",Thrill
 http://aktv-stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
 #EXTINF:-1 tvg-name="Xite_Hits" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="AKTV",Xite_Hits
+http://aktv-stream.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
+#EXTINF:-1 tvg-name="Xite Rock" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="AKTV",Xite Rock
 http://aktv-stream.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
 #EXTINF:-1 tvg-name="France 24" tvg-logo="https://live.fanmingming.cn/tv/france24.png" group-title="AKTV",France 24
 http://aktv-stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
@@ -89,88 +91,82 @@ http://aktv-stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
 http://aktv-stream.m16tv.cfd/stream/aktv3/nhk/AKTV.m3u8
 #EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="https://live.fanmingming.cn/tv/LoveNature.png" group-title="AKTV",Love Nature HD
 http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 tvg-name="Love_The_Planet" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="AKTV",Love_The_Planet
-http://aktv-stream.m16tv.cfd/stream/aktv2/lovetheplanet/AKTV.m3u8
+#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="AKTV",National Geographic
+http://aktv-stream.m16tv.cfd/stream/aktv2/nationalgeographic/AKTV.m3u8
 
-#EXTINF:-1 tvg-name="amc电影台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv017_tv.png" group-title="AKTV",amc电影台
-http://aktv-stream.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
-#EXTINF:-1 tvg-name="HITS頻道" tvg-logo="https://assets.livednow.com/logo/HITS-頻道.png" group-title="AKTV",HITS頻道
-http://aktv-stream.m16tv.cfd/stream/taiwan/hits/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv067_tv.png" group-title="AKTV",TVBS精采台
-http://aktv-stream.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-name="三立綜合台" tvg-logo="https://assets.livednow.com/logo/三立綜合台.png" group-title="AKTV",三立綜合台
-http://aktv-stream.m16tv.cfd/stream/taiwan/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-name="中視HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" group-title="AKTV",中視
+
+#EXTINF:-1 tvg-name="中視" tvg-logo="https://assets.livednow.com/logo/中視.png" group-title="TW",中視
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-name="中視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" group-title="AKTV",中視新聞
+#EXTINF:-1 tvg-name="中視新聞台" tvg-logo="https://assets.livednow.com/logo/中視新聞台.png" group-title="TW",中視新聞台
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
-#EXTINF:-1 tvg-name="台視HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" group-title="AKTV",台視
+#EXTINF:-1 tvg-name="台視" tvg-logo="https://assets.livednow.com/logo/台視.png" group-title="TW",台視
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-name="台視新聞" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" group-title="AKTV",台視新聞
+#EXTINF:-1 tvg-name="台視新聞台" tvg-logo="https://assets.livednow.com/logo/台視新聞台.png" group-title="TW",台視新聞台
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-name="寰宇新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" group-title="AKTV",寰宇新聞台
-http://aktv-stream.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
-#EXTINF:-1 tvg-name="愛爾達娛樂台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv070tv.png" group-title="AKTV",愛爾達娛樂台
-http://aktv-stream.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
-#EXTINF:-1 tvg-name="東森新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv152_tv.png" group-title="AKTV",東森新聞台
-http://aktv-stream.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
-#EXTINF:-1 tvg-name="民視" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv002_tv.png" group-title="AKTV",民視
-http://aktv-stream.m16tv.cfd/stream/taiwan/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-name="民視台灣台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv001_tv.png" group-title="AKTV",民視台灣台
+#EXTINF:-1 tvg-name="倪珍英語新聞" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="TW",倪珍英語新聞
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-name="民視新聞台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv155_tv.png" group-title="AKTV",民視新聞台
-http://aktv-stream.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
-#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv003_tv.png" group-title="AKTV",民視第一台
-http://aktv-stream.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-#EXTINF:-1 tvg-name="民視綜藝台" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv004_tv.png" group-title="AKTV",民視綜藝台
-http://aktv-stream.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
-#EXTINF:-1 tvg-name="華視HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" group-title="AKTV",華視
+#EXTINF:-1 tvg-name="ELTV生活英語" tvg-logo="https://assets.livednow.com/logo/ELTA生活英語.png" group-title="TW",ELTV生活英語
+http://aktv-stream.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
+#EXTINF:-1 tvg-name="三立新聞" tvg-logo="https://assets.livednow.com/logo/三立新聞.png" group-title="TW",三立新聞
+http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
+#EXTINF:-1 tvg-name="華視" tvg-logo="https://assets.livednow.com/logo/華視.png" group-title="TW",華視
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-name="龍華偶像HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png" group-title="AKTV",龍華偶像
+#EXTINF:-1 tvg-name="龍華偶像HD" tvg-logo="https://assets.livednow.com/logo/龍華偶像台.png" group-title="TW",龍華偶像
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
-#EXTINF:-1 tvg-name="龍華日韓HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png" group-title="AKTV",龍華日韓
+#EXTINF:-1 tvg-name="龍華日韓HD" tvg-logo="https://assets.livednow.com/logo/龍華日韓台.png" group-title="TW",龍華日韓
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-name="龍華電影HD" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png" group-title="AKTV",龍華電影台
+#EXTINF:-1 tvg-name="龍華經典台HD" tvg-logo="https://assets.livednow.com/logo/龍華經典台.png" group-title="TW",龍華經典台
+http://aktv-stream.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="龍華電影HD" tvg-logo="https://assets.livednow.com/logo/龍華電影台.png" group-title="TW",龍華電影台
 http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
 
 
-#EXTINF:-1 tvg-name="FashionTV 4K" tvg-logo="https://assets.livednow.com/logo/FashionBox.png" group-title="AKTV",FashionTV 4K
+
+#EXTINF:-1 group-title="Astro",Celestial Movies
+http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
+#EXTINF:-1 group-title="Astro",CINEMAWORLD
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
+#EXTINF:-1 group-title="Astro",FIGHT SPORTS
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
+#EXTINF:-1 group-title="Astro",Mediacorp Entertainment Chinese
+http://aktv-stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
+#EXTINF:-1 group-title="Astro",NBA TV
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
+#EXTINF:-1 group-title="Astro",Sukan
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
+#EXTINF:-1 group-title="Astro",TV9
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
+#EXTINF:-1 group-title="Astro",TVB Jade
+http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
+#EXTINF:-1 group-title="Astro",TVB Xing He
+http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
+#EXTINF:-1 group-title="Astro",Unifi Sport
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
+#EXTINF:-1 group-title="Astro",曼聯電視頻道
+http://aktv-stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
+#EXTINF:-1 group-title="Astro",朝鮮恩情台
+http://aktv-stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
+#EXTINF:-1 group-title="Astro",Astro Football
+http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
+#EXTINF:-1 group-title="Astro",Astro IQIYI
 http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
-#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K.png" group-title="AKTV",Love Nature 4K
-http://aktv-stream.m16tv.cfd/stream/tuntun/lovenature4k/AKTV.m3u8
-#EXTINF:-1 tvg-name="Red Bull Sports" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="AKTV",Red Bull Sports
-http://aktv-stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
-#EXTINF:-1 tvg-name="緯來體育" tvg-logo="https://assets.livednow.com/logo/緯來體育.png" group-title="AKTV",緯來體育
-http://aktv-stream.m16tv.cfd/stream/tuntun/null/AKTV.m3u8
-
-
-
-#EXTINF:-1 tvg-name="NTV NEWS 24" tvg-logo="https://live.fanmingming.cn/tv/IPTVEFEL.png" group-title="AKTV",NTV NEWS 24
+#EXTINF:-1 group-title="Astro",Astro QJ
+http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
+#EXTINF:-1 group-title="Astro",Astro 欢喜台
+http://aktv-stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
+#EXTINF:-1 group-title="Astro",NTV NEWS 24
 http://aktv-stream.m16tv.cfd/stream/useradd1/ntvnews24/AKTV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="viuTV" tvg-logo="https://assets.livednow.com/logo/ViuTV.png" group-title="AKTV",viuTV
+#EXTINF:-1 group-title="Astro",viuTV
 http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
 
-#EXTINF:-1 group-title="AKTV",Channel 5(astro)
-http://aktv-stream.m16tv.cfd/stream/astro_a1/ch1/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Channel 8(astro)
-http://aktv-stream.m16tv.cfd/stream/astro_a1/ch2/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Channel U(astro)
-http://aktv-stream.m16tv.cfd/stream/astro_a1/ch3/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",CINEMAWORLD
-http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",FIGHT SPORTS
-http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",KIX
-http://aktv-stream.m16tv.cfd/stream/astro_a1/ch38/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",NBA TV
-http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Sukan
-http://aktv-stream.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Sukan[备用]
-http://aktv-stream.m16tv.cfd/stream/astro_a1/ch90/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",TV9
-http://aktv-stream.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",Unifi Sport
-http://aktv-stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
-#EXTINF:-1 group-title="AKTV",曼聯電視頻道
-http://aktv-stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
+
+
+
+
+
+
+
+
+
+
+
